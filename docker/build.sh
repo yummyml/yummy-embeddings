@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t qooba/qooba/yummy-recipes:embeddings -f Dockerfile .
+docker build -t qooba/yummy-recipes:embeddings -f Dockerfile .
