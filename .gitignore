@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+minio-data/
+notebooks/facebook_large*
+notebooks/feature_store/
+notebooks/src/
